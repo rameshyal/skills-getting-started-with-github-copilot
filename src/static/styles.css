@@ -29,7 +29,7 @@ header h1 {
 }
 
 main {
-  display: flex;
+  display: grid;
   flex-wrap: wrap;
   gap: 30px;
   justify-content: center;
